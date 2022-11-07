@@ -1,0 +1,18 @@
+# digital-clock
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+
+</head>
+<body>
+    <div class="container">
+        <span id="hours">00</span>
+        <span>:</span>
+        <span id="minutes">00</span>
+        <span>:</span>
+        <span id="seconds">00</span> 
+        <span id="ampm">AM</span>   
+    </div>
+</body>
+</html>
